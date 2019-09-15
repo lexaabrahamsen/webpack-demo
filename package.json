@@ -5,16 +5,22 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "start": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@babel/preset-flow": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.6.0",
     "webpack": "^4.40.2",
     "webpack-cli": "^3.3.8"
   },
   "dependencies": {
+    "bable-loader": "0.0.1-security",
+    "lab-babel-preset-react-app": "^3.1.2",
     "lodash": "^4.17.15"
   }
 }
