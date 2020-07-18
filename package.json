@@ -21,6 +21,6 @@
   "dependencies": {
     "bable-loader": "0.0.1-security",
     "lab-babel-preset-react-app": "^3.1.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
