@@ -16,7 +16,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/preset-typescript": "^7.6.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.8"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "bable-loader": "0.0.1-security",
